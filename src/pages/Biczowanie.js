@@ -38,7 +38,7 @@ const Pricing = () => {
           naprawdę umartwioną - "bądź milłściw mnie grzesznemu" całym sercem
           skruszonym.
         </p>
-        <p
+        {/* <p
           style={{
             fontSize: "15px",
             lineHeight: "1.8rem",
@@ -82,7 +82,7 @@ const Pricing = () => {
           cierpienia za niesprawiedliwych, za złoczyńców, za ludzi pogrążonych w
           nałogach, w wewnętrznej samotności i takich, którzy jeszcze nie wierzą
           ….
-        </p>
+        </p> */}
         <Link
           to="/locations"
           style={{
