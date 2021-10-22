@@ -5,7 +5,7 @@ import Location from "../components/Locations/Locations";
 const Home = () => {
   return (
     <>
-      <Hero />
+      <Hero id="/" />
       <Location />
     </>
   );

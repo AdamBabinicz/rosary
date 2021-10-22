@@ -8,7 +8,7 @@ const Nav = ({ isMenu, menuToggle }) => {
     <nav className={isMenu ? classes.menu__nav : classes.nav}>
       <ul>
         <li onClick={menuToggle}>
-          <Link to="/">Start</Link>
+          <a href="/">Start</a>
         </li>
         <li onClick={menuToggle}>
           <Link to="/różaniec">Różaniec</Link>
