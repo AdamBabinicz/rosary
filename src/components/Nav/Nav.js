@@ -1,23 +1,24 @@
 import React from "react";
 import classes from "./Nav.module.scss";
 import Button from "../../UI/Button/Button";
+import { Link } from "react-router-dom";
 
 const Nav = ({ isMenu, menuToggle }) => {
   return (
     <nav className={isMenu ? classes.menu__nav : classes.nav}>
       <ul>
         <li onClick={menuToggle}>
-          <a href="/">Start</a>
+          <Link to="/">Start</Link>
         </li>
         <li onClick={menuToggle}>
-          <a href="/locations">Różaniec</a>
+          <Link to="/locations">Różaniec</Link>
         </li>
         <li onClick={menuToggle}>
-          <a href="/learnmore">Modlitwa</a>
+          <Link to="/learnmore">Modlitwa</Link>
         </li>
       </ul>
       <Button className={classes.booknow} onClick={menuToggle}>
-        <a href="/moc">Moc Różańca</a>
+        <Link to="/moc">Moc Różańca</Link>
       </Button>
     </nav>
   );
