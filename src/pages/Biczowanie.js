@@ -52,7 +52,7 @@ const Pricing = () => {
           w oczy, ale ... .
         </p>
         <Link
-          to="/locations"
+          to="/różaniec"
           style={{
             color: "#cccccc",
             fontSize: "2rem",

@@ -28,42 +28,9 @@ const Pricing = () => {
           zbrodnię. Ale Bóg okazał nam litość i kiedy ukarał Adama i Ewę
           wypędzeniem z raju, obiecał im Wyzwoliciela, Odkupiciela.
         </p>
-        {/* <p
-          style={{
-            fontSize: "15px",
-            lineHeight: "1.8rem",
-            textTransform: "none",
-            textAlign: "left",
-            fontWeight: "lighter",
-            marginBottom: "1rem",
-          }}
-        >
-          Pośród tak wielu cierpień stanowią dla nas ciągle wielką pociechę
-          słowa Apostoła: Gdzie wzmógł się grzech, tam jeszcze obficiej rozlała
-          się łaska.
-        </p>
-        <p
-          style={{
-            fontSize: "15px",
-            lineHeight: "1.8rem",
-            textTransform: "none",
-            textAlign: "left",
-            fontWeight: "lighter",
-            marginBottom: "1rem",
-          }}
-        >
-          Czyj ja jestem?
-          <br /> Tak naprawdę do końca, do kogo należę i komu bez reszty
-          powierzyć się mogę? Nikogo mieć na własność nie można. Więc niczyj? To
-          jeszcze gorzej, bo wtedy byle komu i za byle co człowiek chce się
-          oddać, byle tylko ktoś powiedział: mój. Człowiek jest swój / Boży, bo
-          tylko Bóg może zawołać go po imieniu i powiedzieć słowa zbawienne w
-          pustce świata, jak Jezusowi nad Jordanem: Mój synu, córko moja...
-          Tylko jak Mu wstydu nie przynieść, Maryjo, najpiękniejsza z córek
-          ludzkich?
-        </p> */}
+
         <Link
-          to="/locations"
+          to="/różaniec"
           style={{
             color: "#cccccc",
             fontSize: "2rem",

@@ -42,7 +42,7 @@ const Pricing = () => {
           otrzymać jeszcze więcej.
         </p>
         <Link
-          to="/locations"
+          to="/różaniec"
           style={{
             color: "#cccccc",
             fontSize: "2rem",

@@ -28,43 +28,8 @@ const Pricing = () => {
           Przez to chciał powiedzieć, jak skuteczna jest Jego męka dla każdego z
           nas.
         </p>
-        {/* <p
-          style={{
-            fontSize: "15px",
-            lineHeight: "1.8rem",
-            textTransform: "none",
-            textAlign: "left",
-            fontWeight: "lighter",
-            marginBottom: "1rem",
-          }}
-        >
-          Matko życia, Ty staniesz na czele orszaku zmartwychwstałych, bo Ciebie
-          nie dotknął cień śmierci. Wielbimy cię w tym wielkim przywileju, który
-          wysłużył Ci Twój Syn. Pragniemy podążać za Tobą i innych tą drogą
-          prowadzić. Wiedz, że nikt nie ma większej miłości niż ten, kto oddaje
-          życie za przyjaciela. Jezus oddał je za ciebie, a więc cię kocha.
-        </p>
-        <p
-          style={{
-            fontSize: "15px",
-            lineHeight: "1.8rem",
-            textTransform: "none",
-            textAlign: "left",
-            fontWeight: "lighter",
-            marginBottom: "1rem",
-          }}
-        >
-          Za miłość należy odpłacać miłością. Kochaj Go, zatem prawdziwie.
-          Okażesz Mu miłość, jeśli zachowasz Jego przykazania i przystępować
-          będziesz często do świętych sakramentów. Jak mówi, św. Paweł, kto
-          grzeszy, ponownie przybija Jezusa do krzyża. Natomiast ten, kto się
-          spowiada, zdejmuje Go z krzyża. Józef Arymatel dał Mu na pochówek
-          własny grobowiec. Ty dasz Mu swoje serce, w którym Go umieścisz i
-          będziesz gościł w Komunii wraz z wonnościami cnót wiary, nadziei,
-          miłości i pokory.
-        </p> */}
         <Link
-          to="/locations"
+          to="/różaniec"
           style={{
             color: "#cccccc",
             fontSize: "2rem",

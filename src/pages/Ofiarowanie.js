@@ -42,7 +42,7 @@ const Pricing = () => {
           które się troszczymy, tak jak ptaki, wzlatują do nieba.
         </p>
         <Link
-          to="/locations"
+          to="/różaniec"
           style={{
             color: "#cccccc",
             fontSize: "2rem",

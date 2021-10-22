@@ -54,58 +54,8 @@ const Pricing = () => {
           Służebnico Pańska, w męce Pana naszego Jezusa Chrystusa. Módl się za
           nami grzesznymi!
         </p>
-        {/* <p
-          style={{
-            fontSize: "15px",
-            lineHeight: "1.8rem",
-            textTransform: "none",
-            textAlign: "left",
-            fontWeight: "lighter",
-            marginBottom: "1rem",
-          }}
-        >
-          Panie Jezu agonia Twojej modlitwy to początek mojego zbawienia. Ty
-          Królu mój, zbawicielu walczysz o moją duszę. Twoja modlitwa to
-          godzina, w której przyjmujesz moją winę, moje śmiertelne grzechy i
-          miliardy grzechów całego świata. To jeszcze nie droga krzyżowa na
-          Golgotę, to tylko ofiara, to tylko modlitwa. Ale jakże wymowna,
-          długotrwała, pobożna, cierpliwa, z miłością i Twoim poświęceniem.
-        </p>
-        <p
-          style={{
-            fontSize: "15px",
-            lineHeight: "1.8rem",
-            textTransform: "none",
-            textAlign: "left",
-            fontWeight: "lighter",
-            marginBottom: "1rem",
-          }}
-        >
-          Czy moja modlitwa jest tak wytrwała i chętna, pobożna ofiarna za ten
-          cały dzień i spokojną noc, za rodziców i rodzeństwo? Czy umiem
-          zaprosić do modlitwy kogoś bliskiego, męża, żonę, córkę lub brata, czy
-          tylko może zmówię z chęcią pobożnie za nich westchnienie do Boga? A
-          jakże była by milsza Tobie Chryste, gdybym ofiarowała ją za moich
-          wrogów, nieprzyjaciół. Panie, naucz jak uwielbiać i być Ci oddanym.
-        </p>
-        <p
-          style={{
-            fontSize: "15px",
-            lineHeight: "1.8rem",
-            textTransform: "none",
-            textAlign: "left",
-            fontWeight: "lighter",
-            marginBottom: "1rem",
-          }}
-        >
-          Prosimy Ciebie nasza Matko, Matko naszego zbawiciela, abyś nas
-          wspierała swoją cierpliwością i pokorą, i uczyniła nasze serca pełne
-          zapału i miłości do modlitwy. Pragniemy to czynić z głębi naszych
-          serc. Wspieraj nas, Matko, matko bolesna, matko modląca się z Jezusem
-          w Ogrójcu.
-        </p> */}
         <Link
-          to="/locations"
+          to="/różaniec"
           style={{
             color: "#cccccc",
             fontSize: "2rem",

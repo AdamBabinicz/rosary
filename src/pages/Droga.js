@@ -42,25 +42,8 @@ const Pricing = () => {
           i cierpienie, ale pamiętaj, że twój ból, smutek i cierpienie są niczym
           ... .
         </p>
-        {/* <p
-          style={{
-            fontSize: "15px",
-            lineHeight: "1.8rem",
-            textTransform: "none",
-            textAlign: "left",
-            fontWeight: "lighter",
-            marginBottom: "1rem",
-          }}
-        >
-          Dzisiaj Chrystus cierpi na wiele sposobów w ludziach najbardziej
-          pogardzanych: spragniony miłości, patrzy w twoją stronę; łaknący
-          dobroci, prosi o nią ciebie, stęskniony za oddaniem, w tobie pokłada
-          nadzieję. Chory i w więzieniu, szuka twojej przyjaźni. Bezdomny, prosi
-          o schronienie w twoim sercu.
-          <br /> Przyjmiesz Go?
-        </p> */}
         <Link
-          to="/locations"
+          to="/różaniec"
           style={{
             color: "#cccccc",
             fontSize: "2rem",

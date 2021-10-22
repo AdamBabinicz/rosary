@@ -43,22 +43,8 @@ const Pricing = () => {
           najdrobniejszego, oddaliło nas od tej przynależności, od Jego miłości
           (...).
         </p>
-        {/* <p
-          style={{
-            fontSize: "15px",
-            lineHeight: "1.8rem",
-            textTransform: "none",
-            textAlign: "left",
-            fontWeight: "lighter",
-            marginBottom: "1rem",
-          }}
-        >
-          Po wniebowstąpieniu Jezusa, Matka Boża w szczególny sposób opiekowała
-          się Apostołami pierwszego Kościoła. Również dzisiaj Matka Boża otacza
-          nas swą macierzyńską opieką.
-        </p> */}
         <Link
-          to="/locations"
+          to="/różaniec"
           style={{
             color: "#cccccc",
             fontSize: "2rem",

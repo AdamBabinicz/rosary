@@ -31,7 +31,7 @@ const LearnMore = () => {
           objawia, że Ty jesteś dla nas przykładem.
         </p>
         <Link
-          to="/locations"
+          to="/różaniec"
           style={{
             color: "#cccccc",
             fontSize: "2rem",

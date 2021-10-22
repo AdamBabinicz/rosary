@@ -40,26 +40,8 @@ const Pricing = () => {
           Starajcie się, zatem podsycać w sobie głód i pragnienie miłości,
           abyście osiągnęli poprzez świętą Eucharystię wszystkie te dobra.
         </p>
-        {/* <p
-          style={{
-            fontSize: "15px",
-            lineHeight: "1.8rem",
-            textTransform: "none",
-            textAlign: "left",
-            fontWeight: "lighter",
-            marginBottom: "1rem",
-          }}
-        >
-          Chrześcijanie powinni być światłem dla innych (...). Przekazuj Jezusa
-          nie słowami, lecz swoim przykładem, kochając Go, jaśniejąc Jego
-          świętością i roznosząc miłość, gdziekolwiek się znajdziesz. Niech
-          radość Jezusa będzie twoją siłą. (...) Niech Jego światło zawsze
-          płonie w twoim sercu — albowiem tylko On jest Drogą, po której można
-          iść. On jest Życiem, którym można żyć. On jest Miłością, którą można
-          kochać.
-        </p> */}
         <Link
-          to="/locations"
+          to="/różaniec"
           style={{
             color: "#cccccc",
             fontSize: "2rem",

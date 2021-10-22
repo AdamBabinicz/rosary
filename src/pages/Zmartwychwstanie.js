@@ -45,23 +45,8 @@ const Pricing = () => {
           radości bez ofiary. To, dlatego Wielki Piątek poprzedza Wielkanoc.
           (...)
         </p>
-        {/* <p
-          style={{
-            fontSize: "15px",
-            lineHeight: "1.8rem",
-            textTransform: "none",
-            textAlign: "left",
-            fontWeight: "lighter",
-            marginBottom: "1rem",
-          }}
-        >
-          O Boże (...) użycz mi silnej woli, abym mogła sięgać tam, gdzie sięgać
-          najbardziej się waham, i wzniecać miłość tam, gdzie mnie odtrącono;
-          użycz mi łaski, bym mogła w ciemnościach dojrzeć znak wiary, abym
-          potrafiła ją zachować w samym środku zwątpienia.
-        </p> */}
         <Link
-          to="/locations"
+          to="/różaniec"
           style={{
             color: "#cccccc",
             fontSize: "2rem",

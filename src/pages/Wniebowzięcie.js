@@ -43,7 +43,7 @@ const Pricing = () => {
           Bogiem, bo tylko takie cierpienie ma sens.
         </p>
         <Link
-          to="/locations"
+          to="/różaniec"
           style={{
             color: "#cccccc",
             fontSize: "2rem",

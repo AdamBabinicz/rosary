@@ -27,39 +27,8 @@ const Pricing = () => {
           uczty, i to w chwili, gdy nie nadeszła jeszcze godzina, aby ujawnić
           się i zacząć publiczną działalność.
         </p>
-        {/* <p
-          style={{
-            fontSize: "15px",
-            lineHeight: "1.8rem",
-            textTransform: "none",
-            textAlign: "left",
-            fontWeight: "lighter",
-            marginBottom: "1rem",
-          }}
-        >
-          Najświętsza Dziewico, skoro ulitowałaś się nad małżonkami z Kany
-          Galilejskiej i wybawiłaś ich z opresji, uproś Go również, aby uczynił
-          dla mnie podobny cud i obdarzył łaskami, których potrzebuję, aby
-          godnie Go przyjąć.
-        </p>
-        <p
-          style={{
-            fontSize: "15px",
-            lineHeight: "1.8rem",
-            textTransform: "none",
-            textAlign: "left",
-            fontWeight: "lighter",
-            marginBottom: "1rem",
-          }}
-        >
-          Współczuj Maryi w cierpieniach, których przysparzają Jej współbracia,
-          bo nie dość, że grzesząc, doprowadzili do zguby Jej Syna, to oddalają
-          się od Niego coraz bardziej, zamiast Go poszukiwać, i w ten sposób
-          mnożą własne winy, odkładając z dnia na dzień swe nawrócenie. Proś
-          Boga o na wrócenie dla nich.
-        </p> */}
         <Link
-          to="/locations"
+          to="/różaniec"
           style={{
             color: "#cccccc",
             fontSize: "2rem",

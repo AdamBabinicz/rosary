@@ -52,28 +52,8 @@ const Pricing = () => {
           miłosierdzia wtedy, gdy faryzeusze i inni Jego przeciwnicy okazywali
           Mu nienawiść, gdy usiłowali zniszczyć dzieło Jego Ojca. (...).
         </p>
-        {/* <p
-          style={{
-            fontSize: "15px",
-            lineHeight: "1.8rem",
-            textTransform: "none",
-            textAlign: "left",
-            fontWeight: "lighter",
-            marginBottom: "1rem",
-          }}
-        >
-          Rzeczą istotną w naszym życiu nie jest to, co mówimy, lecz jak
-          wierzymy, jak żyjemy, jak kochamy i świadczymy o Jezusie Chrystusie,
-          naszym Zbawicielu. (...) Środkiem najbardziej skutecznym w głoszeniu
-          chrześcijaństwa poganom jest nasza radość, przekonanie o własnym
-          szczęściu.
-          <br /> (...) Jest rzeczą bardzo trudną, czasem wprost niemożliwą,
-          głoszenie Jezusa innym ludziom, jeśli nie posiadamy Go w naszym sercu
-          (...). „Nawrócić” znaczy doprowadzić do Boga. „Uświęcać” znaczy
-          napełniać Bogiem...
-        </p> */}
         <Link
-          to="/locations"
+          to="/różaniec"
           style={{
             color: "#cccccc",
             fontSize: "2rem",

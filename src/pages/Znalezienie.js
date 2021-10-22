@@ -42,7 +42,7 @@ const Pricing = () => {
           światła. Maryja, która towarzyszyła Jezusowi ... .
         </p>
         <Link
-          to="/locations"
+          to="/różaniec"
           style={{
             color: "#cccccc",
             fontSize: "2rem",

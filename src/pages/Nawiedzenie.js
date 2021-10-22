@@ -42,21 +42,8 @@ const Pricing = () => {
           poruszona przez przywitanie Maryi, przyjęła tajemnicę Jej życia. To,
           że jest Matką Zbawiciela. Obie głęboko radują się w Bogu.
         </p>
-        <p
-          style={{
-            fontSize: "15px",
-            lineHeight: "1.8rem",
-            textTransform: "none",
-            textAlign: "left",
-            fontWeight: "lighter",
-            marginBottom: "1rem",
-          }}
-        >
-          Im bardziej przyjmujemy Boga, same siebie i innych – tym bardziej
-          doświadczamy tajemnicy radości w naszym codziennym życiu.
-        </p>
         <Link
-          to="/locations"
+          to="/różaniec"
           style={{
             color: "#cccccc",
             fontSize: "2rem",
