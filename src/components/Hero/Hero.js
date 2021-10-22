@@ -4,6 +4,7 @@ import coverVID from "./../../assets/santa.mp4";
 import Button from "../../UI/Button/Button";
 import Modal from "../../components/Portal/Modal";
 import img from "../../assets/roza.jpg";
+import { Link } from "react-router-dom";
 
 const HomePageContent = () => {
   const [modal, setModal] = useState(false);
@@ -25,7 +26,7 @@ const HomePageContent = () => {
       </p>
       <div className={classes.hero__content__cta}>
         <Button>
-          <a href="/booknow">Jak odmawiać</a>
+          <Link to="/booknow">Jak odmawiać</Link>
         </Button>
         <Button onClick={() => Toggle()} outline>
           Więcej
