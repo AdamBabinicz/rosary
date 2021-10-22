@@ -38,7 +38,7 @@ const Pricing = () => {
           naprawdę umartwioną - "bądź milłściw mnie grzesznemu" całym sercem
           skruszonym.
         </p>
-        {/* <p
+        <p
           style={{
             fontSize: "15px",
             lineHeight: "1.8rem",
@@ -53,7 +53,7 @@ const Pricing = () => {
           natychmiast odczuwam nieokreślona Miłość Ojcowska i ulgę, że wszystko
           jest dobrze.
         </p>
-        <p
+        {/* <p
           style={{
             fontSize: "15px",
             lineHeight: "1.8rem",
