@@ -1,0 +1,27 @@
+@import "./reset.scss";
+@import "./variables.scss";
+
+#root {
+  height: 100%;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  scroll-behavior: smooth;
+}
+body {
+  width: 100%;
+  font-family: $lato;
+}
+a {
+  transition: all 0.3s ease;
+  text-decoration: none;
+  color: $dark2;
+}
+a:hover {
+  color: $hov !important;
+}
