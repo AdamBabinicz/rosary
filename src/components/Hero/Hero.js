@@ -33,8 +33,6 @@ const HomePageContent = () => {
         </Button>
         <Modal show={modal} close={Toggle} title="Różaniec">
           <img src={img} alt="..." />
-          {/* <p></p> */} <br />
-          <br />
           <p>
             <em>vaidotuparapija.lt/pl/index.php/home/miesiac-rozancowy</em>
           </p>

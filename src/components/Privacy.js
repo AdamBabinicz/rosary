@@ -28,7 +28,7 @@ const Container = styled.div`
     font-size: 2rem;
     color: #fff;
     transition: all 0.4s;
-    z-index: 1000;
+    z-index: 1;
 
     @media screen and (max-width: 676px) {
       justify-content: flex-end;
