@@ -49,40 +49,8 @@ const Pricing = () => {
           }}
         >
           Kiedy mój obraz Twoich ran zniknie, wtedy lękam się spojrzeć Ci prosto
-          w oczy, ale kiedy już to uczynię i ujrzę uśmiech Twoich oczu,
-          natychmiast odczuwam nieokreślona Miłość Ojcowska i ulgę, że wszystko
-          jest dobrze.
+          w oczy, ale ... .
         </p>
-        {/* <p
-          style={{
-            fontSize: "15px",
-            lineHeight: "1.8rem",
-            textTransform: "none",
-            textAlign: "left",
-            fontWeight: "lighter",
-            marginBottom: "1rem",
-          }}
-        >
-          Jeszcze jedna modlitwa, jeszcze jeden Różaniec, jeszcze jeden dzień w
-          Twoich kojących każdy ból Ramionach, a nie łatwo jest cudzy ciężar
-          wziąć na własne ramiona; Ty Panie nie tylko wziąłeś mój ciężar
-          grzechów - Ty za nie zapłaciłeś chłostą, cierpieniem i śmiercią.
-        </p>
-        <p
-          style={{
-            fontSize: "15px",
-            lineHeight: "1.8rem",
-            textTransform: "none",
-            textAlign: "left",
-            fontWeight: "lighter",
-            marginBottom: "1rem",
-          }}
-        >
-          Wejdź w moje życie Panie razem z Krzyżem i naucz mnie ofiarować moje
-          cierpienia za niesprawiedliwych, za złoczyńców, za ludzi pogrążonych w
-          nałogach, w wewnętrznej samotności i takich, którzy jeszcze nie wierzą
-          ….
-        </p> */}
         <Link
           to="/locations"
           style={{
