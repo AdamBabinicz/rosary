@@ -28,7 +28,7 @@ const Pricing = () => {
           Przez to chciał powiedzieć, jak skuteczna jest Jego męka dla każdego z
           nas.
         </p>
-        <p
+        {/* <p
           style={{
             fontSize: "15px",
             lineHeight: "1.8rem",
@@ -62,7 +62,7 @@ const Pricing = () => {
           własny grobowiec. Ty dasz Mu swoje serce, w którym Go umieścisz i
           będziesz gościł w Komunii wraz z wonnościami cnót wiary, nadziei,
           miłości i pokory.
-        </p>
+        </p> */}
         <Link
           to="/locations"
           style={{

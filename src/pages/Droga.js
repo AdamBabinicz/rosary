@@ -45,7 +45,7 @@ const Pricing = () => {
           pocieszył, podtrzymał na duchu. Czy wystarczająco mocno się o to
           starasz?
         </p>
-        <p
+        {/* <p
           style={{
             fontSize: "15px",
             lineHeight: "1.8rem",
@@ -61,7 +61,7 @@ const Pricing = () => {
           nadzieję. Chory i w więzieniu, szuka twojej przyjaźni. Bezdomny, prosi
           o schronienie w twoim sercu.
           <br /> Przyjmiesz Go?
-        </p>
+        </p> */}
         <Link
           to="/locations"
           style={{

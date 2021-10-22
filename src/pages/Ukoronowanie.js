@@ -27,7 +27,7 @@ const Pricing = () => {
           wypełnione jest troską o nasze zbawienie, wytrwałą i mozolną pracą na
           zwrócenie nas na ścieżkę ku Bogu.
         </p>
-        <p
+        {/* <p
           style={{
             fontSize: "15px",
             lineHeight: "1.8rem",
@@ -77,7 +77,7 @@ const Pricing = () => {
           Ona, Królowa Wszechświata, Pani nieba i ziemi wstawia się za nami i
           śpieszy z pomocą tym, którzy Ją o to proszą. Pani nieba i ziemi, módl
           się za nami, którzy się do Ciebie uciekamy.
-        </p>
+        </p> */}
         <Link
           to="/locations"
           style={{

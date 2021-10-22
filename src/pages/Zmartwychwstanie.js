@@ -45,7 +45,7 @@ const Pricing = () => {
           radości bez ofiary. To, dlatego Wielki Piątek poprzedza Wielkanoc.
           (...)
         </p>
-        <p
+        {/* <p
           style={{
             fontSize: "15px",
             lineHeight: "1.8rem",
@@ -59,7 +59,7 @@ const Pricing = () => {
           najbardziej się waham, i wzniecać miłość tam, gdzie mnie odtrącono;
           użycz mi łaski, bym mogła w ciemnościach dojrzeć znak wiary, abym
           potrafiła ją zachować w samym środku zwątpienia.
-        </p>
+        </p> */}
         <Link
           to="/locations"
           style={{

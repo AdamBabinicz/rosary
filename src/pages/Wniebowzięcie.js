@@ -42,7 +42,7 @@ const Pricing = () => {
           Musiała tak wiele wycierpieć. I cierpiała, lecz jak? W łączności z
           Bogiem, bo tylko takie cierpienie ma sens.
         </p>
-        <p
+        {/* <p
           style={{
             fontSize: "15px",
             lineHeight: "1.8rem",
@@ -103,7 +103,7 @@ const Pricing = () => {
           śmierć, a potem korona chwały, której tak bardzo powinieneś pragnąć. A
           jeżeli nie, cóż za korzyść mieć będziesz, choćbyś cały świat zyskał,
           gdy na duszy szkodę poniesiesz?
-        </p>
+        </p> */}
         <Link
           to="/locations"
           style={{

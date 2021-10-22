@@ -40,7 +40,7 @@ const Pricing = () => {
           Starajcie się, zatem podsycać w sobie głód i pragnienie miłości,
           abyście osiągnęli poprzez świętą Eucharystię wszystkie te dobra.
         </p>
-        <p
+        {/* <p
           style={{
             fontSize: "15px",
             lineHeight: "1.8rem",
@@ -57,7 +57,7 @@ const Pricing = () => {
           płonie w twoim sercu — albowiem tylko On jest Drogą, po której można
           iść. On jest Życiem, którym można żyć. On jest Miłością, którą można
           kochać.
-        </p>
+        </p> */}
         <Link
           to="/locations"
           style={{

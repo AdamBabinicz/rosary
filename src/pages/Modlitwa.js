@@ -53,8 +53,8 @@ const Pricing = () => {
           abyśmy z łaską Chrystusa zwyciężali grzech. Jesteśmy z Tobą,
           Służebnico Pańska, w męce Pana naszego Jezusa Chrystusa. Módl się za
           nami grzesznymi!
-        </p>{" "}
-        <p
+        </p>
+        {/* <p
           style={{
             fontSize: "15px",
             lineHeight: "1.8rem",
@@ -103,7 +103,7 @@ const Pricing = () => {
           zapału i miłości do modlitwy. Pragniemy to czynić z głębi naszych
           serc. Wspieraj nas, Matko, matko bolesna, matko modląca się z Jezusem
           w Ogrójcu.
-        </p>
+        </p> */}
         <Link
           to="/locations"
           style={{

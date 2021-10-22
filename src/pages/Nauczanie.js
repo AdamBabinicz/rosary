@@ -52,7 +52,7 @@ const Pricing = () => {
           miłosierdzia wtedy, gdy faryzeusze i inni Jego przeciwnicy okazywali
           Mu nienawiść, gdy usiłowali zniszczyć dzieło Jego Ojca. (...).
         </p>
-        <p
+        {/* <p
           style={{
             fontSize: "15px",
             lineHeight: "1.8rem",
@@ -71,7 +71,7 @@ const Pricing = () => {
           głoszenie Jezusa innym ludziom, jeśli nie posiadamy Go w naszym sercu
           (...). „Nawrócić” znaczy doprowadzić do Boga. „Uświęcać” znaczy
           napełniać Bogiem...
-        </p>
+        </p> */}
         <Link
           to="/locations"
           style={{

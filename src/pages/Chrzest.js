@@ -28,7 +28,7 @@ const Pricing = () => {
           zbrodnię. Ale Bóg okazał nam litość i kiedy ukarał Adama i Ewę
           wypędzeniem z raju, obiecał im Wyzwoliciela, Odkupiciela.
         </p>
-        <p
+        {/* <p
           style={{
             fontSize: "15px",
             lineHeight: "1.8rem",
@@ -61,7 +61,7 @@ const Pricing = () => {
           pustce świata, jak Jezusowi nad Jordanem: Mój synu, córko moja...
           Tylko jak Mu wstydu nie przynieść, Maryjo, najpiękniejsza z córek
           ludzkich?
-        </p>
+        </p> */}
         <Link
           to="/locations"
           style={{

@@ -39,12 +39,7 @@ const Pricing = () => {
           Maryja jednak nie buntuje się, nie zamyka swojego serca. Nie szuka też
           w sztuczny sposób wytłumaczenia, ale pozwala, by w jej życiu
           zaistniała tajemnica. Tajemnica to odkrywanie coraz głębszego sensu i
-          światła. Maryja, która towarzyszyła Jezusowi w dorastaniu, towarzyszy
-          również nam w dorastaniu naszej wiary. Ona staje obok nas zwłaszcza
-          wtedy, gdy my w naszym życiu gubimy Jezusa, kiedy tracimy sens życia,
-          kiedy nie ma w nas radości.
-          <br /> Ile razy zgubimy Boga, tyle razy możemy zwrócić się do Maryi w
-          modlitwie różańcowej, prosząc „Pomóż mi Go odnaleźć”.
+          światła. Maryja, która towarzyszyła Jezusowi ... .
         </p>
         <Link
           to="/locations"

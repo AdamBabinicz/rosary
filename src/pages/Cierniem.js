@@ -27,7 +27,7 @@ const Pricing = () => {
           prawdę o sobie, udaje, że jest kimś innym, wybiela swój wizerunek lub
           po prostu oddaje się samochwalstwu.
         </p>
-        <p
+        {/* <p
           style={{
             fontSize: "15px",
             lineHeight: "1.8rem",
@@ -86,7 +86,7 @@ const Pricing = () => {
           nieczułym, kapryśnym i samolubnym, ale zostaliśmy stworzeni do
           większych rzeczy. Po co więc zniżać się do spraw, które zniszczą
           piękno naszych serc?
-        </p>
+        </p> */}
         <Link
           to="/locations"
           style={{

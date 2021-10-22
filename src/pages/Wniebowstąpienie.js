@@ -25,7 +25,7 @@ const Pricing = () => {
           towarzyszy, którymi są aniołowie i święci. Jesteś na ziemi
           pielgrzymem. Na ziemi nie doświadczysz pełni. Wszystko zajmuje cię
           przez jakiś czas, a potem nuży.
-        </p>{" "}
+        </p>
         <p
           style={{
             fontSize: "15px",
@@ -42,8 +42,8 @@ const Pricing = () => {
           przekonaniu, że należymy do Niego i nie pozwolić, by cokolwiek, nawet
           najdrobniejszego, oddaliło nas od tej przynależności, od Jego miłości
           (...).
-        </p>{" "}
-        <p
+        </p>
+        {/* <p
           style={{
             fontSize: "15px",
             lineHeight: "1.8rem",
@@ -56,7 +56,7 @@ const Pricing = () => {
           Po wniebowstąpieniu Jezusa, Matka Boża w szczególny sposób opiekowała
           się Apostołami pierwszego Kościoła. Również dzisiaj Matka Boża otacza
           nas swą macierzyńską opieką.
-        </p>
+        </p> */}
         <Link
           to="/locations"
           style={{

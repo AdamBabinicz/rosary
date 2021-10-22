@@ -54,7 +54,7 @@ const Pricing = () => {
           Nasze uczestnictwo w Eucharystii jest niepełne, jeśli nie prowadzi do
           służby i miłowania ubogich.
         </p>
-        <p
+        {/* <p
           style={{
             fontSize: "15px",
             lineHeight: "1.8rem",
@@ -83,7 +83,7 @@ const Pricing = () => {
           którą jesteś Ty sam (por. 1 Kor 5, 7). Ale Twoje Boskie pragnienie
           ciągle się przedłuża. I tak będzie do końca świata. Uwielbiam Cię,
           Trójco Święta, w tajemnicy ustanowienia Eucharystii.
-        </p>
+        </p> */}
         <Link
           to="/locations"
           style={{
