@@ -236,7 +236,7 @@ const Locations = ({ page }) => {
           </div>
           {!page && (
             <div className={classes.locations__content__viewmore}>
-              <Link to="/booknow">
+              <Link to="/odmawianie">
                 Jak odmawiać różaniec <BsArrowRight />
               </Link>
             </div>
