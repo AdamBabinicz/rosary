@@ -1,4 +1,6 @@
 import react from "react";
+import CookieConsent from "react-cookie-consent";
+import { Link } from "react-router-dom";
 import Header from "./components/Header/Header";
 import Home from "./pages/Home";
 import { Route, Switch } from "react-router";
@@ -114,6 +116,41 @@ function App() {
         </Route>
       </Switch>
       <Footer />
+      <CookieConsent
+        debug={true}
+        location="bottom"
+        style={{
+          background: "#333",
+          textAlign: "left",
+          paddingBottom: "1rem",
+        }}
+        buttonStyle={{
+          color: "#333",
+          background: "#fff",
+          fontSize: "14px",
+          marginRight: "1rem",
+        }}
+        buttonText="OK, rozumiem"
+        expires={365}
+      >
+        “W ramach naszej witryny stosujemy pliki cookies w celu świadczenia
+        Państwu usług na najwyższym poziomie, w tym w sposób dostosowany do
+        indywidualnych potrzeb. Korzystanie z witryny bez zmiany ustawień
+        dotyczących cookies oznacza, że będą one zamieszczane w Państwa
+        urządzeniu końcowym. Możecie Państwo dokonać w każdym czasie zmiany
+        ustawień dotyczących cookies. Więcej  szczegółów w naszej
+        <Link
+          to="/czytaj"
+          // target="_blank"
+          rel="noopener noreferrer"
+          style={{
+            color: "rgb(204, 204, 204)",
+            textDecoration: "none",
+          }}
+        >
+          &nbsp;„Polityce Cookies”/”Polityce Prywatności”.
+        </Link>
+      </CookieConsent>
     </>
   );
 }
