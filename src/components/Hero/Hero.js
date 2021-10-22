@@ -26,7 +26,7 @@ const HomePageContent = () => {
       </p>
       <div className={classes.hero__content__cta}>
         <Button>
-          <Link to="/booknow">Jak odmawiać</Link>
+          <Link to="/odmawianie">Jak odmawiać</Link>
         </Button>
         <Button onClick={() => Toggle()} outline>
           Więcej

@@ -11,10 +11,10 @@ const Nav = ({ isMenu, menuToggle }) => {
           <Link to="/">Start</Link>
         </li>
         <li onClick={menuToggle}>
-          <Link to="/locations">Różaniec</Link>
+          <Link to="/różaniec">Różaniec</Link>
         </li>
         <li onClick={menuToggle}>
-          <Link to="/learnmore">Modlitwa</Link>
+          <Link to="/maryja">Modlitwa</Link>
         </li>
       </ul>
       <Button className={classes.booknow} onClick={menuToggle}>

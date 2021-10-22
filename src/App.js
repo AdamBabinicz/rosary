@@ -36,10 +36,10 @@ function App() {
     <>
       <Header />
       <Switch>
-        <Route path="/locations">
+        <Route path="/różaniec">
           <LocationsPage />
         </Route>
-        <Route path="/booknow">
+        <Route path="/odmawianie">
           <BookNow />
         </Route>
         <Route path="/zwiastowanie">
@@ -102,7 +102,7 @@ function App() {
         <Route path="/ukoronowanie">
           <Ukoronowanie />
         </Route>
-        <Route path="/learnmore">
+        <Route path="/maryja">
           <LearnMore />
         </Route>
         <Route path="/moc">
