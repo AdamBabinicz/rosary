@@ -40,10 +40,7 @@ const Pricing = () => {
           O, jak że wielką będziesz miał zasługę w niebie! Wszędzie dziś
           napotykamy cierpienia duszy i ciała. Także do twego życia wkroczył ból
           i cierpienie, ale pamiętaj, że twój ból, smutek i cierpienie są niczym
-          innym jak pocałunkiem Jezusa. (...) Każdy z nas powinien zanurzyć się
-          w mękę Chrystusa z jeszcze większą miłością. On szuka kogoś, kto by Go
-          pocieszył, podtrzymał na duchu. Czy wystarczająco mocno się o to
-          starasz?
+          ... .
         </p>
         {/* <p
           style={{

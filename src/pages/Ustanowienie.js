@@ -35,9 +35,7 @@ const Pricing = () => {
         >
           Aby dzielić z Jezusem miłość, która rozumie, musisz spożywać ten Chleb
           (...). Msza święta jest naszą modlitwą dnia — składamy siebie w
-          ofierze razem z Chrystusem, aby wraz z Nim być złamanymi i oddanymi
-          najbiedniejszym z biednych. Eucharystia jest naszą chwałą i radością,
-          jest tajemnicą naszego zjednoczenia z Chrystusem. (...)
+          ofierze razem z Chrystusem, aby ... .
         </p>
         <p
           style={{
@@ -54,36 +52,7 @@ const Pricing = () => {
           Nasze uczestnictwo w Eucharystii jest niepełne, jeśli nie prowadzi do
           służby i miłowania ubogich.
         </p>
-        {/* <p
-          style={{
-            fontSize: "15px",
-            lineHeight: "1.8rem",
-            textTransform: "none",
-            textAlign: "left",
-            fontWeight: "lighter",
-            marginBottom: "1rem",
-          }}
-        >
-          „Gorąco” pragnąłem spożyć tę Paschę z wami, zanim będę cierpiał (...).
-          To jest Ciało moje, które za was będzie wydane: to czyńcie na moją
-          pamiątkę” (Łk 22, 15. 19).
-        </p>
-        <p
-          style={{
-            fontSize: "15px",
-            lineHeight: "1.8rem",
-            textTransform: "none",
-            textAlign: "left",
-            fontWeight: "lighter",
-            marginBottom: "1rem",
-          }}
-        >
-          Jezu, wiekuisty Kapłanie, Ty w Wieczerniku, spełniłeś Boskie
-          pragnienie: ustanowiłeś Eucharystię jako Paschę Nowego Przymierza,
-          którą jesteś Ty sam (por. 1 Kor 5, 7). Ale Twoje Boskie pragnienie
-          ciągle się przedłuża. I tak będzie do końca świata. Uwielbiam Cię,
-          Trójco Święta, w tajemnicy ustanowienia Eucharystii.
-        </p> */}
+
         <Link
           to="/locations"
           style={{

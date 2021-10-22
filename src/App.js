@@ -25,6 +25,7 @@ import Wniebowstąpienie from "./pages/Wniebowstąpienie";
 import Wniebowzięcie from "./pages/Wniebowzięcie";
 import Ukoronowanie from "./pages/Ukoronowanie";
 import Moc from "./pages/Moc";
+import Zesłanie from "./pages/Zesłanie";
 import Privacy from "./components/Privacy";
 import Footer from "./components/Footer/Footer";
 
@@ -92,6 +93,9 @@ function App() {
         </Route>
         <Route path="/wniebowzięcie">
           <Wniebowzięcie />
+        </Route>
+        <Route path="/zesłanie">
+          <Zesłanie />
         </Route>
         <Route path="/ukoronowanie">
           <Ukoronowanie />
