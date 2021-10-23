@@ -31,8 +31,8 @@ const Container = styled.div`
     z-index: 1;
 
     @media screen and (max-width: 676px) {
-      justify-content: flex-end;
-      top: 6rem;
+      justify-content: center;
+      top: 9rem;
     }
 
     :hover {
