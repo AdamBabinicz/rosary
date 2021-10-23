@@ -39,8 +39,7 @@ const Pricing = () => {
           Bo jest jedną z nas. Jej życie na ziemi nie było pozbawione ludzkich
           problemów: zwykłych trosk, cierpienia, udręk, bólu, pomimo tego (a
           może właśnie, dlatego), że była Matką Boga, a więc tak blisko Niego.
-          Musiała tak wiele wycierpieć. I cierpiała, lecz jak? W łączności z
-          Bogiem, bo tylko takie cierpienie ma sens.
+          Musiała tak wiele wycierpieć. I cierpiała, lecz jak?
         </p>
         <Link
           to="/różaniec"

@@ -38,9 +38,7 @@ const Pricing = () => {
         >
           My, jako kobiety, mamy ogromny dar, aby przyjmować w sobie Boga i
           drugiego człowieka. Tego niewątpliwie możemy uczyć się od Maryi. To
-          Ona właśnie przyjęła Jezusa i mogła potem przyjąć Elżbietę. Elżbieta
-          poruszona przez przywitanie Maryi, przyjęła tajemnicę Jej życia. To,
-          że jest Matką Zbawiciela. Obie głęboko radują się w Bogu.
+          Ona właśnie przyjęła Jezusa i mogła potem przyjąć Elżbietę.
         </p>
         <Link
           to="/różaniec"

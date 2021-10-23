@@ -50,7 +50,7 @@ const Pricing = () => {
           Głośmy pokój Chrystusa tak, jak On go głosił. Jezus szedł przez życie,
           dobrze czyniąc. Nie zaprzestał wypełniać swego posłannictwa
           miłosierdzia wtedy, gdy faryzeusze i inni Jego przeciwnicy okazywali
-          Mu nienawiść, gdy usiłowali zniszczyć dzieło Jego Ojca. (...).
+          Mu nienawiść, gdy ... .
         </p>
         <Link
           to="/różaniec"

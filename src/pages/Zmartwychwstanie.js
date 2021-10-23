@@ -41,9 +41,7 @@ const Pricing = () => {
           okazji do grzechu. W ten sposób dostąpisz zbawienia. Radość
           zmartwychwstałego Pana jest blaskiem miłości Ojca. Radość Jezusa jest
           nadzieją na wieczne szczęście. Jest palącym płomieniem miłości.
-          Wielkanoc przynosi tę radość. Należy jednak pamiętać, że nie ma
-          radości bez ofiary. To, dlatego Wielki Piątek poprzedza Wielkanoc.
-          (...)
+          Wielkanoc przynosi tę radość.
         </p>
         <Link
           to="/różaniec"

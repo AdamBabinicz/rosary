@@ -39,7 +39,7 @@ const Pricing = () => {
           Maryja jednak nie buntuje się, nie zamyka swojego serca. Nie szuka też
           w sztuczny sposób wytłumaczenia, ale pozwala, by w jej życiu
           zaistniała tajemnica. Tajemnica to odkrywanie coraz głębszego sensu i
-          światła. Maryja, która towarzyszyła Jezusowi ... .
+          światła.
         </p>
         <Link
           to="/różaniec"
